@@ -1,5 +1,5 @@
 -- =============================================
--- Author:		Aasish Kumar Sharma
+-- Author:	Aasish Kumar Sharma
 -- Create date: 2022-03-02
 -- Description:	Related MSSQL JSON Parser Engine. MSSQL Version 2017+
 --				Parses JSON string (JSON data) from a JSON log table for each header (nested level) into a proper tabular form. 
